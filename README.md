@@ -1,1 +1,1 @@
-# open-project-intership
+# open-project-internship
